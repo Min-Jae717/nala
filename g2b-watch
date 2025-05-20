@@ -1,4 +1,4 @@
-cd your-project
+cd C:\Users\itwill\OneDrive\나라장터\git
 git init
 git remote add origin https://github.com/your-username/g2b-supabase-app.git
 git add .
