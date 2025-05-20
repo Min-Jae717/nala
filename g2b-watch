@@ -1,0 +1,6 @@
+cd your-project
+git init
+git remote add origin https://github.com/your-username/g2b-supabase-app.git
+git add .
+git commit -m "Initial commit with Streamlit Supabase app"
+git push -u origin main
